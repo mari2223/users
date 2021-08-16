@@ -1,14 +1,16 @@
-[
-    {
-        "user": "mari",
-        "password": "password1"
-    },
-    {
-        "user": "mari",
-        "password": "password1"
-    },
-    {
-        "user": "mari",
-        "password": "password1"
-    }
-]
+{
+    "list": [
+        {
+            "user": "mari",
+            "password": "password1"
+        },
+        {
+            "user": "mari",
+            "password": "password1"
+        },
+        {
+            "user": "mari",
+            "password": "password1"
+        }
+    ]
+}
