@@ -15,5 +15,19 @@
             "user": "Sam",
             "password": "password1"
         }
-    ]
+    ],
+    "products":[
+         {
+            "id":1,
+            "name":"iPhone",
+            "price":"$499"
+         }
+    ],
+    "todos":[
+        {
+           "id":1,
+           "task":"Task1",
+           "status":"pending"
+        }
+     ]
 }
