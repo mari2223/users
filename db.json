@@ -21,6 +21,16 @@
             "id":1,
             "name":"iPhone",
             "price":"$499"
+         },
+         {
+            "id":2,
+            "name":"iPad",
+            "price":"$799"
+         },
+         {
+            "id":3,
+            "name":"iPod",
+            "price":"$299"
          }
     ],
     "todos":[
@@ -28,6 +38,16 @@
            "id":1,
            "task":"Task1",
            "status":"pending"
-        }
-     ]
+        },
+        {
+            "id":2,
+            "task":"Task2",
+            "status":"completed"
+        },
+        {
+            "id":3,
+            "task":"Task3",
+            "status":"progress"
+         }
+       ]
 }
