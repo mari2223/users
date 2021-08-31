@@ -49,5 +49,19 @@
             "task":"Task3",
             "status":"progress"
          }
-       ]
+       ],
+"source" : [
+    "Chennai",
+    "Bangalore",
+    "Hyderabad",
+    "Mumbai",
+    "Goa"
+],
+"target" : [
+    "Chennai",
+    "Bangalore",
+    "Hyderabad",
+    "Mumbai",
+    "Goa"
+]
 }
