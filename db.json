@@ -63,5 +63,132 @@
     "Hyderabad",
     "Mumbai",
     "Goa"
-]
+],
+"routes":[{
+    "id":1,
+    "source":"Chennai",
+    "target":"Bangalore",
+    "busName": "KPN",
+    "depTime": "12:00 PM",
+    "coachType": "AC",
+    "availableSeats": "34",
+    "fareAmount": "1200",
+    "availablity":{
+        "2021-09-08":"34",
+        "2021-09-07":"28",
+        "2021-09-06":"16"
+    }
+},{
+    "id":2,
+    "source":"Chennai",
+    "target":"Hyderabad",
+    "busName": "SRM",
+    "depTime": "3:00 PM",
+    "coachType": "AC",
+    "availableSeats": "20",
+    "fareAmount": "1100",
+    "availablity":{
+        "2021-09-08":"33",
+        "2021-09-07":"26",
+        "2021-09-06":"8"
+    }
+},{
+    "id":3,
+    "source":"Bangalore",
+    "target":"Goa",
+    "busName": "Intercity",
+    "depTime": "11:30 AM",
+    "coachType": "Non AC",
+    "availableSeats": "34",
+    "fareAmount": "800",
+    "availablity":{
+        "2021-09-08":"23",
+        "2021-09-07":"22",
+        "2021-09-06":"18"
+    }
+},{
+    "id":4,
+    "source":"Hyderabad",
+    "target":"Chennai",
+    "busName": "Orange",
+    "depTime": "4:00 PM",
+    "coachType": "Non AC",
+    "availableSeats": "22",
+    "fareAmount": "670",
+    "availablity":{
+        "2021-09-08":"2",
+        "2021-09-07":"6",
+        "2021-09-06":"11"
+    }
+},{
+    "id":5,
+    "source":"Bangalore",
+    "target":"Chennai",
+    "busName": "Parveen",
+    "depTime": "1:00 PM",
+    "coachType": "AC",
+    "availableSeats": "23",
+    "fareAmount": "1000",
+    "availablity":{
+        "2021-09-08":"28",
+        "2021-09-07":"25",
+        "2021-09-06":"32"
+    }
+},{
+    "id":6,
+    "source":"Goa",
+    "target":"Mumbai",
+    "busName": "KPN",
+    "depTime": "1:00 PM",
+    "coachType": "AC",
+    "availableSeats": "23",
+    "fareAmount": "1000",
+    "availablity":{
+        "2021-09-08":"18",
+        "2021-09-07":"21",
+        "2021-09-06":"33"
+    }
+},{
+    "id":7,
+    "source":"Goa",
+    "target":"Chennai",
+    "busName": "Intercity",
+    "depTime": "1:00 PM",
+    "coachType": "Non AC",
+    "availableSeats": "23",
+    "fareAmount": "1000",
+    "availablity":{
+        "2021-09-08":"12",
+        "2021-09-07":"19",
+        "2021-09-06":"23"
+    }
+},{
+    "id":8,
+    "source":"Hyderabad",
+    "target":"Chennai",
+    "busName": "Parveen",
+    "depTime": "1:00 PM",
+    "coachType": "AC",
+    "availableSeats": "23",
+    "fareAmount": "1000",
+    "availablity":{
+        "2021-09-08":"27",
+        "2021-09-07":"30",
+        "2021-09-06":"12"
+    }
+},{
+    "id":9,
+    "source":"Bangalore",
+    "target":"Mumbai",
+    "busName": "Orange",
+    "depTime": "1:00 PM",
+    "coachType": "Non AC",
+    "availableSeats": "23",
+    "fareAmount": "1000",
+    "availablity":{
+        "2021-09-08":"8",
+        "2021-09-07":"2",
+        "2021-09-06":"23"
+    }
+}]
 }
